@@ -16,5 +16,3 @@ This repository contains my solutions to the [LeetCode 75 Study Plan](https://le
 ## ✅ IN Progress
 ---
 
-## 🗂️ Directory Structure
-
