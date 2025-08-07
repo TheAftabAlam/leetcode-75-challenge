@@ -20,7 +20,6 @@ public class TwoSum {
         // If no solution found
         return new int[] {};
     }
-
     // For testing
     public static void main(String[] args) {
         TwoSum obj = new TwoSum();
